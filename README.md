@@ -12,6 +12,7 @@ Yoyo NFT is a conceptual protocol that:
 - Treats physical artefacts as processor imprint
 - Uses IPFS and metadata to mint memory, not hype
 - Proposes NFT as proof of ownership, not speculation
+- This protocol is part of a broader audit on generational imprint and sovereignty in Web3.
 
 ---
 
@@ -19,7 +20,8 @@ Yoyo NFT is a conceptual protocol that:
 
 - `docs/The_Minted_Lie_When_NFTs_Forgot.pdf`: Audit manifesto
 - Shelf visual: nostalgic artefacts (yoyo, watch, spinner)
-- Optional: rakaman suara atau serpihan glitch parenting
+- Optional: voice recording or glitch fragments — processor imprint from lived experience, not crowd scripts
+- Each item represents a lived fragment—scratched, kept, remembered. Minted not for sale, but for survival.
 
 ---
 
