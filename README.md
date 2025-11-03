@@ -17,8 +17,10 @@ This protocol is part of a broader audit on generational imprint and sovereignty
 
 ## 📦 Artefact Earn
 
-- `docs/The_Minted_Lie_When_NFTs_Forgot.pdf`: Audit manifesto
+📦 Artefact Earn
+- [docs/The_Minted_Lie_When_NFTs_Forgot.pdf](docs/The_Minted_Lie_When_NFTs_Forgot.pdf): Audit manifesto
 - Shelf visual: nostalgic artefacts (yoyo, watch, spinner)
+- [artefacts/imprint-notes.md](artefacts/imprint-notes.md): Processor echoes from lived artefacts
 - Optional: voice recording or glitch fragments — processor imprint from lived experience, not crowd scripts
 - Each item represents a lived fragment—scratched, kept, remembered. Minted not for sale, but for survival.
 
